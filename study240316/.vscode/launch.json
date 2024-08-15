@@ -1,0 +1,77 @@
+{
+    // IntelliSense를 사용하여 가능한 특성에 대해 알아보세요.
+    // 기존 특성에 대한 설명을 보려면 가리킵니다.
+    // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Ex9",
+            "request": "launch",
+            "mainClass": "com.study.regx.Ex9",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "resul",
+            "request": "launch",
+            "mainClass": "com.study.regx.resul",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Ex5",
+            "request": "launch",
+            "mainClass": "com.study.Ex5",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Person",
+            "request": "launch",
+            "mainClass": "com.study.regx.Person",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Ex2",
+            "request": "launch",
+            "mainClass": "com.study.regx.Ex2",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Ex1_1",
+            "request": "launch",
+            "mainClass": "com.study.regx.Ex1_1",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Quiz01",
+            "request": "launch",
+            "mainClass": "com.study.regx.Quiz01",
+            "projectName": "demo"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "com.study.regx.Main",
+            "projectName": "demo",
+            "args": [
+                "이번년",
+                2024,
+                "Back-end",
+                "BE6",
+                "nhn academy 아자자"
+            ]
+        }
+    ]
+}

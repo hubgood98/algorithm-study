@@ -1,0 +1,109 @@
+{
+    // IntelliSense를 사용하여 가능한 특성에 대해 알아보세요.
+    // 기존 특성에 대한 설명을 보려면 가리킵니다.
+    // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "TestServer",
+            "request": "launch",
+            "mainClass": "com.nat.study.TestServer",
+            "projectName": "netstudy"
+        },
+        {
+            "type": "java",
+            "name": "Server",
+            "request": "launch",
+            "mainClass": "com.nat.study.Server",
+            "projectName": "netstudy"
+        },
+        {
+            "type": "java",
+            "name": "Client",
+            "request": "launch",
+            "mainClass": "com.nat.study.Client",
+            "projectName": "netstudy"
+        },
+        {
+            "type": "java",
+            "name": "local",
+            "request": "launch",
+            "mainClass": "com.nat.study.local",
+            "projectName": "netstudy"
+        },
+        {
+            "type": "java",
+            "name": "Middle",
+            "request": "launch",
+            "mainClass": "com.nat.study.Middle",
+            "projectName": "netstudy"
+        },
+        {
+            "type": "java",
+            "name": "TcpIpClient",
+            "request": "launch",
+            "mainClass": "com.nat.study.TcpIpClient",
+            "projectName": "netstudy"
+        },
+        {
+            "type": "java",
+            "name": "TcpServer",
+            "request": "launch",
+            "mainClass": "com.nat.study.TcpServer",
+            "projectName": "netstudy"
+        },
+        {
+            "type": "java",
+            "name": "Exam04",
+            "request": "launch",
+            "mainClass": "com.nat.study.Exam04",
+            "projectName": "netstudy"
+        },
+        {
+            "type": "java",
+            "name": "Ex7A",
+            "request": "launch",
+            "mainClass": "com.nat.study.Ex7A",
+            "projectName": "netstudy"
+        },
+        {
+            "type": "java",
+            "name": "Ex5",
+            "request": "launch",
+            "mainClass": "com.nat.study.Ex5",
+            "projectName": "netstudy"
+        },
+        {
+            "type": "java",
+            "name": "Ex4",
+            "request": "launch",
+            "mainClass": "com.nat.study.Ex4",
+            "projectName": "netstudy"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Ex01",
+            "request": "launch",
+            "mainClass": "com.nat.study.Ex01",
+            "projectName": "netstudy",
+            "args": [
+                9300,
+                9500
+            ]
+        },
+        {
+            "type": "java",
+            "name": "Ex03",
+            "request": "launch",
+            "mainClass": "com.nat.study.Ex3",
+            "projectName": "netstudy"
+        }
+    ]
+}

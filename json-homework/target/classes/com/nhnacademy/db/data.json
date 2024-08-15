@@ -1,0 +1,62 @@
+{
+  "score": {
+    "winCount": 2,
+    "battleCount": 10
+  },
+  "log": [
+    {
+      "date": "2024?ÖÑ 03?õî 19?ùº 16?ãú 27Î∂? 31Ï¥?",
+      "beforeData": "new before data1",
+      "changeData": "new change data2"
+    },
+    {
+      "date": "2024?ÖÑ 03?õî 19?ùº 16?ãú 28Î∂? 05Ï¥?",
+      "beforeData": "new before data1",
+      "changeData": "new change data2"
+    },
+    {
+      "date": "2024?ÖÑ 03?õî 19?ùº 16?ãú 28Î∂? 38Ï¥?",
+      "beforeData": "new before data1",
+      "changeData": "new change data2"
+    },
+    {
+      "date": "2024≥‚ 03ø˘ 19¿œ 17Ω√ 04∫– 56√ ",
+      "beforeData": "new before data1",
+      "changeData": "new change data2"
+    }
+  ],
+  "items": [
+    {
+      "moveSpeed": 1,
+      "defence": 1,
+      "attackSpeed": 1,
+      "health": 1,
+      "model": "",
+      "id": "a",
+      "damege": 1
+    },
+    {
+      "moveSpeed": 1,
+      "defence": 1,
+      "attackSpeed": 1,
+      "health": 1,
+      "model": "",
+      "id": "b",
+      "damege": 1
+    }
+  ],
+  "users": [
+    {
+      "nickname": "?Çò?äî?ïº",
+      "id": "0001"
+    },
+    {
+      "nickname": "?ù¨Ï§??ù¥",
+      "id": "0002"
+    },
+    {
+      "nickname": "?Öé?Öé",
+      "id": "0003"
+    }
+  ]
+}
